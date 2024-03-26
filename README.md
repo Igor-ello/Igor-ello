@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges_networks" align="center">
-  <a href="t.me/@Ig0rello">
+  <a href="https://t.me/Ig0rello">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
 </div>
 

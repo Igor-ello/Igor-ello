@@ -9,6 +9,9 @@
   <a href="https://gitlab.informatics.ru/Igorello">
     <img src="https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=GitLab&logoColor=white" alt="GitLab Badge"/>
   </a>
+  <a href="https://discordapp.com/users/680055941697241114/">
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
+  </a>
 </div>
 
 <div id="badges" align="center">
@@ -16,10 +19,10 @@
     <img src="https://img.shields.io/badge/MIREA-yellow?style=for-the-badge&logo=homeassistant&logoColor=white" alt="MIREA Badge"/>
   </a>
   <a href="https://informatics.ru/">
-    <img src="https://img.shields.io/badge/Informatics.ru-red?style=for-the-badge&logoColor=white" alt="Informatics Badge"/>
+    <img src="https://img.shields.io/badge/Informatics.ru-red?style=for-the-badge&logo=Codementor&logoColor=white" alt="Informatics Badge"/>
   </a>
   <a href="https://innovationcampus.ru/">
-     <img src="https://img.shields.io/badge/Samsung Innovation Campus-purple?style=for-the-badge&logoColor=white" alt="Samsung Badge"/>
+     <img src="https://img.shields.io/badge/Samsung Innovation Campus-purple?style=for-the-badge" alt="Samsung Badge"/>
   </a>
 </div>
 

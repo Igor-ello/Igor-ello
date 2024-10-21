@@ -30,10 +30,6 @@
   <img src="https://komarev.com/ghpvc/?username=Igor-ello&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVrY2w4aXlqMzc4cHB1eHMzdWN5Y3FrZmh3MjVwYnl6N2l2NGRpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MxYd3CSZa5G19jYuFA/giphy.gif" width="200"/>
-</div>
-
 ---
 
 ### :man_technologist: About Me :

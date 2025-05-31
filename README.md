@@ -66,10 +66,3 @@ I am a student at RTU MIREA <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-ello&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<div>
-  
-  ![](https://raw.githubusercontent.com/Igor-ello/github-stats/master/generated/overview.svg#gh-light-mode-only)
-  
-  ![](https://raw.githubusercontent.com/Igor-ello/github-stats/master/generated/languages.svg#gh-light-mode-only)
-<div/>
